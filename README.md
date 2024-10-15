@@ -1,3 +1,8 @@
-# React and Cypress
+# React + Vite
 
-Create a React project that utilizes the Cypress test suite. Use this assignment to get familiarized with the different types of commands and tests you can run within [cypress](https://docs.cypress.io/guides/component-testing/react/examples)
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
